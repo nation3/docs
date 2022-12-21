@@ -7,9 +7,9 @@ The Nation3 DAO is an [Aragon DAO](https://aragon.org/) with:
 
 Here's a breakdown with the permission structure:
 
-![](../.gitbook/assets/image.png)
-
 ![](<../.gitbook/assets/image (1).png>)
+
+![](../.gitbook/assets/image.png)
 
 ### What's currently governed by the DAO[​](https://wiki.nation3.org/dao/#whats-currently-governed-by-the-dao) <a href="#whats-currently-governed-by-the-dao" id="whats-currently-governed-by-the-dao"></a>
 

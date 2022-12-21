@@ -12,7 +12,6 @@
 * [⛓ DAO](jurisdiction/dao.md)
 * [📜 Constitution](jurisdiction/constitution.md)
 * [⚖ Supreme Court](jurisdiction/supreme-court.md)
-* [🛡 Guardian Guild](jurisdiction/guardian-guild.md)
 * [🗳 Governance process](jurisdiction/governance-process.md)
 
 ## Citizenship
@@ -29,6 +28,12 @@
 * [➡ Joining an agreement](agreements/joining-an-agreement.md)
 * [🚩 Disputing an agreement](agreements/disputing-an-agreement.md)
 * [✅ Finalizing an agreement](agreements/finalizing-an-agreement.md)
+
+## Guilds
+
+* [🛡 Guardian Guild](guilds/guardian-guild.md)
+* [👩💻 Developers Guild](guilds/developers-guild.md)
+* [🔆 Solar Guild](guilds/solar-guild.md)
 
 ## Other
 
