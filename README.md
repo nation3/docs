@@ -1,5 +1,9 @@
 # 🗺 What is Nation3
 
+{% hint style="warning" %}
+Work in progress!
+{% endhint %}
+
 Nation3 in an online-first, zero-tax nation with its own jurisdiction, court and system of law.
 
 <figure><img src=".gitbook/assets/Twitter header flag.png" alt=""><figcaption></figcaption></figure>
