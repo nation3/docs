@@ -27,6 +27,7 @@
 * [✍ Writing an agreement](agreements/writing-an-agreement.md)
 * [➡ Joining an agreement](agreements/joining-an-agreement.md)
 * [🚩 Disputing an agreement](agreements/disputing-an-agreement.md)
+* [📧 Sending evidence](agreements/sending-evidence.md)
 * [✅ Finalizing an agreement](agreements/finalizing-an-agreement.md)
 
 ## Guilds
