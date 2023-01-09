@@ -16,4 +16,4 @@ Then you can go to the Citizen app and follow this process:
 1. Lock your $NATION to get more than 2 $veNATION (the locked version of $NATION).
 2. Sign your adherance to the terms of Citizenship, and claim your passport.
 
-Here's a short video explaining it:
+Here's a short video of the process:
