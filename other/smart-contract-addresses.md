@@ -1,4 +1,4 @@
-# ⚒ Smart contract addresses
+# ⚒ Smart contract addresses and audits
 
 * **$NATION:** [`0x333a4823466879eef910a04d473505da62142069`](https://etherscan.io/address/0x333a4823466879eef910a04d473505da62142069)
 * **$veNATION:** [`0xf7def1d2fbda6b74bee7452fdf7894da9201065d`](https://etherscan.io/address/0xf7def1d2fbda6b74bee7452fdf7894da9201065d)

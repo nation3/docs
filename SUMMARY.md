@@ -11,23 +11,23 @@
 * [🌐 Overview](jurisdiction/overview.md)
 * [⛓ DAO](jurisdiction/dao.md)
 * [📜 Constitution](jurisdiction/constitution.md)
-* [⚖ Supreme Court (WIP)](jurisdiction/supreme-court-wip.md)
-* [🗳 Governance process (WIP)](jurisdiction/governance-process-wip.md)
+* [⚖ Supreme Court](jurisdiction/supreme-court.md)
+* [🗳 Governance process](jurisdiction/governance-process.md)
 
 ## Citizenship
 
 * [🛂 Getting a passport](citizenship/getting-a-passport.md)
 * [📲 Downloading it on the phone](citizenship/downloading-it-on-the-phone.md)
-* [📝 Setting a signer wallet](citizenship/setting-a-signer-wallet.md)
-* [🎇 Obtaining reputation (WIP)](citizenship/obtaining-reputation-wip.md)
+* [📝 Setting a signer wallet](citizenship/setting-other-wallet-as-signer.md)
+* [🎇 Obtaining reputation](citizenship/obtaining-reputation.md)
 
 ## Agreements
 
 * [💎 What is a Nation3 agreement](agreements/what-is-a-nation3-agreement.md)
-* [✍ Creating an agreement (WIP)](agreements/creating-an-agreement-wip.md)
-* [➡ Joining an agreement (WIP)](agreements/joining-an-agreement-wip.md)
-* [🚩 Disputing an agreement (WIP)](agreements/disputing-an-agreement-wip.md)
-* [📧 Sending evidence (WIP)](agreements/sending-evidence-wip.md)
+* [✍ Creating an agreement](agreements/creating-an-agreement.md)
+* [➡ Joining an agreement](agreements/joining-an-agreement.md)
+* [🚩 Disputing an agreement](agreements/disputing-an-agreement.md)
+* [📧 Submitting evidence](agreements/submitting-evidence.md)
 * [✅ Finalizing an agreement](agreements/finalizing-an-agreement.md)
 
 ## Guilds
@@ -38,5 +38,5 @@
 
 ## Other
 
-* [⚒ Smart contract addresses and audits](other/smart-contract-addresses-and-audits.md)
+* [⚒ Smart contract addresses and audits](other/smart-contract-addresses.md)
 * [🔗 Linked Markdown](other/linked-markdown.md)

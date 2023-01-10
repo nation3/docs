@@ -1,4 +1,4 @@
-# ✍ Creating an agreement (WIP)
+# ✍ Creating an agreement
 
 To create a Nation3 agreement, you will need the following:
 
