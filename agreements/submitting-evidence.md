@@ -15,3 +15,7 @@ To submit evidence about a case you are a part of, follow these steps:
    ![](<../.gitbook/assets/Screenshot 2023-01-10 at 4.51.46 PM.png>)
 7. You should email evidence to judges by sending them an email to their Ethereum address followed by `@ethereum.email`. You can check out the current Ethereum addresses for judges at [supreme-court.md](../jurisdiction/supreme-court.md "mention").
 8. You can submit any files, in any reasonable file format, attached to the email. For files larger than 25MB, please use [Tresorit Send](https://send.tresorit.com).
+
+{% hint style="info" %}
+You can check out the full legal terms for evidence submission [here](https://linked.md/v?u=https://linked.md/api/github/nation3/law/main/contracts/EvidenceSubmission.linked.md).
+{% endhint %}
