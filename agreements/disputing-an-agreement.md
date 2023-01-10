@@ -1,6 +1,6 @@
 # 🚩 Disputing an agreement
 
-If a pary in the agreement has breached its terms, any of the other parties can open a dispute.
+If a party in the agreement has breached its terms, any of the other parties can open a dispute.
 
 The process is:
 
