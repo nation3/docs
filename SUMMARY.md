@@ -35,7 +35,6 @@
 * [🛡 Guardian Guild](guilds/guardian-guild.md)
 * [👩💻 Developers Guild](guilds/developers-guild.md)
 * [🔆 Solar Guild](guilds/solar-guild.md)
-* [Page 1](guilds/page-1.md)
 
 ## Other
 
