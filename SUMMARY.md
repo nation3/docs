@@ -40,3 +40,7 @@
 
 * [⚒ Smart contract addresses and audits](other/smart-contract-addresses.md)
 * [🔗 Linked Markdown](other/linked-markdown.md)
+
+***
+
+* [🗓 Event calendar](event-calendar.md)
