@@ -20,6 +20,7 @@
 * [📲 Downloading it on the phone](citizenship/downloading-it-on-the-phone.md)
 * [📝 Setting a signer wallet](citizenship/setting-other-wallet-as-signer.md)
 * [🎇 Obtaining reputation](citizenship/obtaining-reputation.md)
+* [🗓 Event calendar](citizenship/event-calendar.md)
 
 ## Agreements
 
@@ -40,7 +41,3 @@
 
 * [⚒ Smart contract addresses and audits](other/smart-contract-addresses.md)
 * [🔗 Linked Markdown](other/linked-markdown.md)
-
-***
-
-* [🗓 Event calendar](event-calendar.md)
