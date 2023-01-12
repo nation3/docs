@@ -20,7 +20,7 @@
 * [📲 Downloading it on the phone](citizenship/downloading-it-on-the-phone.md)
 * [📝 Setting a signer wallet](citizenship/setting-other-wallet-as-signer.md)
 * [🎇 Obtaining reputation](citizenship/obtaining-reputation.md)
-* [🗓 Event calendar](citizenship/event-calendar.md)
+* [🗓 Event calendar](event-calendar.md)
 
 ## Agreements
 
