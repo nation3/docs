@@ -40,5 +40,5 @@
 
 ## Other
 
-* [⚒ Smart contract addresses and audits](other/smart-contract-addresses.md)
+* [🔗 Official resources](other/official-resources.md)
 * [🔗 Linked Markdown](other/linked-markdown.md)
