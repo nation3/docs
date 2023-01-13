@@ -33,7 +33,7 @@ In terms of separation of powers, it can be framed as follows:
 * [Dispute Resolution Process](https://linked.md/v?u=https://linked.md/api/github/nation3/law/main/contracts/DisputeResolutionProcess.linked.md): Process that Judges and Nation3 DAO follow for disputes within the Nation3 Jurisdiction, including evidence submission.
 
 {% hint style="info" %}
-All documents are written in [linked-markdown.md](../other/linked-markdown.md "mention"), a superset of Markdown focused on legal contracts and developed by Nation3.
+All documents are written in [Broken link](broken-reference "mention"), a superset of Markdown focused on legal contracts and developed by Nation3.
 {% endhint %}
 
 ```mermaid

@@ -38,7 +38,6 @@
 * [👩💻 Developers Guild](guilds/developers-guild.md)
 * [🔆 Solar Guild](guilds/solar-guild.md)
 
-## Other
+***
 
-* [🔗 Official resources](other/official-resources.md)
-* [🔗 Linked Markdown](other/linked-markdown.md)
+* [🔗 Official resources](official-resources.md)
