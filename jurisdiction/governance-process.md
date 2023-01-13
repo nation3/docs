@@ -87,4 +87,4 @@ The [guardian-guild.md](../guilds/guardian-guild.md "mention") multisig has perm
 
 The Nation3 DAO can request changes in the signers and signing threshold of the [guardian-guild.md](../guilds/guardian-guild.md "mention") multisig by passing a _Proclamation_ proposal.
 
-As a backup mechanism in case of multisig malfunction, the Nation3 Proposals Backup DAO can create votes on Aragon. The Voting app installed on such DAO is configured with the exact same parameters as the _Critical Agent_ app, with the exception of any $veNATION holder being able to create votes on it.
+As a backup mechanism in case of [guardian-guild.md](../guilds/guardian-guild.md "mention") multisig malfunction, the [supreme-court.md](supreme-court.md "mention") multisig can create votes on Aragon. The Voting app installed on such DAO is configured with the exact same parameters as the _Critical Agent_ app, with the exception of any $veNATION holder being able to create votes on it.

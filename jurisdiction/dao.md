@@ -30,9 +30,7 @@ flowchart TD
   DAO -->|Has| A2{Agent with supermajority}
   A1 -->|Governs| GOVERNED
   subgraph GOVERNED[ ]
-    MerkleDistributor
     PassportIssuer
-    BoostedLiquidityRewards
   end
   A2 -->|Governs| NATION[$NATION minting]
 ```

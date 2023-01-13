@@ -33,6 +33,7 @@
 
 ## Guilds
 
+* [💻 Taking on tasks](guilds/taking-on-tasks.md)
 * [🛡 Guardian Guild](guilds/guardian-guild.md)
 * [👩💻 Developers Guild](guilds/developers-guild.md)
 * [🔆 Solar Guild](guilds/solar-guild.md)
