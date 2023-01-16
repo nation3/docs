@@ -1,5 +1,9 @@
 # 💎 What is a Nation3 agreement
 
+{% hint style="info" %}
+Nation3 agreements aren't live yet. If you wanna be the first one to know, make sure to [register here](https://forms.gle/FJX5CGqiCnfny8196).
+{% endhint %}
+
 A Nation3 agreement is a contract between two or more parties that is regulated by the laws of the Nation3 jurisdiction. It's akin to a legal contract in a traditional jurisdiction.
 
 The parties that enter the agreement are legally bound by it, and can be taken to court (ultimately, the [supreme-court.md](../jurisdiction/supreme-court.md "mention")) in case they breach the agreement's terms.
