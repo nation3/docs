@@ -82,8 +82,8 @@ Any proposal which would trigger a transaction from the _Critical Agent_ app on 
 
 ### Who can create votes
 
-The [guardian-guild.md](../guilds/guardian-guild.md "mention") multisig has permission to create votes, both in the Nation3 space on Snapshot and the Nation3 DAO on Aragon.
+The [guardian-guild.md](../guilds/guardian-guild.md "mention") multisig has permission to create votes, both in the Nation3 space on Snapshot and the Nation3 [dao.md](dao.md "mention") on Aragon.
 
-The Nation3 DAO can request changes in the signers and signing threshold of the [guardian-guild.md](../guilds/guardian-guild.md "mention") multisig by passing a _Proclamation_ proposal.
+The Nation3 [dao.md](dao.md "mention") can request changes in the signers and signing threshold of the [guardian-guild.md](../guilds/guardian-guild.md "mention") multisig by passing a _Proclamation_ proposal.
 
 As a backup mechanism in case of [guardian-guild.md](../guilds/guardian-guild.md "mention") multisig malfunction, the [supreme-court.md](supreme-court.md "mention") multisig can create votes on Aragon. The Voting app installed on such DAO is configured with the exact same parameters as the _Critical Agent_ app, with the exception of any $veNATION holder being able to create votes on it.
