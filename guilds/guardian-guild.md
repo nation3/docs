@@ -12,3 +12,5 @@ After that, the next Guardian Guild elections will be conduced on the 5th of May
 {% endhint %}
 
 ## How to apply
+
+_Coming soon!_

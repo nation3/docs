@@ -8,11 +8,15 @@
 * **Forum:** [https://forum.nation3.org](https://forum.nation3.org/)
 * **Discord:** [https://n3.gg/discord](https://n3.gg/discord)
 
+## Governance
+
+* **Snapshot:** [https://vote.nation3.org](https://vote.nation3.org/)
+* **DAO:** [https://client.aragon.org/#/nation3](https://client.aragon.org/#/nation3/)
+
 ## Work and governance
 
 * **GitHub:** [https://github.com/nation3](https://github.com/nation3)
-* **Snapshot:** [https://vote.nation3.org](https://vote.nation3.org/)
-* **DAO:** [https://client.aragon.org/#/nation3](https://client.aragon.org/#/nation3/)
+* **Dework**: [https://app.dework.xyz/nation3](https://app.dework.xyz/nation3)
 
 ## Smart contract addresses
 
