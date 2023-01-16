@@ -11,7 +11,7 @@ To claim a Genesis Passport, you will need:
 Nation3 seeks to create a community of critical thinkers who care about the project. That's why some financial stake is required to enter.
 {% endhint %}
 
-Then you can go to the Citizen app and follow this process:
+Then you can go to the [citizen app](https://app.nation3.org) and follow this process:
 
 1. Lock your $NATION to get more than 2 $veNATION (the locked version of $NATION).
 2. Sign your adherance to the terms of Citizenship, and claim your passport.

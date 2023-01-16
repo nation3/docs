@@ -5,7 +5,6 @@ This document outlines the governance process that the Nation3 citizens, the [gu
 ### Kinds of proposals
 
 * **Meta**: Proposal that modifies the current governance process (`specs/N3GOV-v1.d.ts` and `GOVERNANCE.md`).
-* **Law**: WIP.
 * **Proclamation**: Proposal for the Nation3 DAO to adopt a statement.
   * Since multiple choices would be written in English and not encoded, this is the only kind of proposal on Snapshot that can use other voting systems other than _Single Choice_.
 * **Expense**: Proposal to transfer an ERC20 token outside of the Nation3 DAO's treasury, with the expectation that it flows outside of its control.
