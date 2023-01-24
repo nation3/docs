@@ -10,7 +10,7 @@ We are building an online-first nation state with its own jurisdiction, court an
 
 We issue our own cryptocurrency to incentivize economic development within the jurisdiction.
 
-We issue our own passports to create an aligned a community of critical-thinking citizens.
+We issue our own passports to create an aligned community of critical-thinking citizens.
 
 We aim to create the most reliable and efficient business environment to transact on the Internet.
 

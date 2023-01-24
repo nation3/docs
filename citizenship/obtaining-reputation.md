@@ -6,4 +6,4 @@ NationCred is available to Nation3 citizens, and there are weekly payouts in $NA
 
 To become eligible for NationCred, head to the _#🎗-nationcred_ channel on [Discord](https://n3.gg/discord). Keep in mind it's only available to citizens, so you'll need to use the _#🤖-guild-join_ channel first to authenticate as a citizen.
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-01-13 at 3.27.41 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ts-nc.png" alt=""><figcaption></figcaption></figure>
