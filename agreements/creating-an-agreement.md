@@ -7,6 +7,4 @@ To create a Nation3 agreement, you will need the following:
 
 Once you have defined those, you can check how to create a Nation3 agreement in less than 30 seconds here:
 
-{% embed url="https://www.loom.com/share/e3ef2106d5624ed7bd205f76627705ab" %}
-How to create an agreement
-{% endembed %}
+{% embed url="https://www.loom.com/share/fb0af098fb0a4e8097f597ac029586b2" %}
