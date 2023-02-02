@@ -35,11 +35,3 @@ In terms of separation of powers, it can be framed as follows:
 {% hint style="info" %}
 All documents are written in [Linked Markdown](https://linked.md), a superset of Markdown focused on legal contracts and developed by Nation3.
 {% endhint %}
-
-```mermaid
-graph TD
-    Constitution -->|References| JudgeContract
-    Constitution -->|References| GuardianContract
-    Constitution -->|References| DisputeResolutionProcess
-    JudgeContract -->|References| DisputeResolutionProcess
-```
