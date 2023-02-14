@@ -55,7 +55,7 @@ The Nation3 DAO will hold yearly elections to choose the judges of the Supreme C
 
 To apply, you'll need to create a new post in [this category within the Nation3 forum](https://forum.nation3.org/c/judges-elections/17) including:
 
-* The following statement: “_I, \[your name] understand, and agree to enter into,_ [_the agreement with the Nation3 DAO_](https://linked.md/v?u=https://linked.md/api/github/nation3/law/main/contracts/JudgeContract.linked.md) _to fulfil my role as a Judge in the Supreme Court of Nation3, should I be elected by community vote_”.
+* The following statement: “_I, \[your name], with adress \[your Ethereum address] understand, and agree to enter into,_ [_the agreement with the Nation3 DAO_](https://linked.md/v?u=https://linked.md/api/github/nation3/law/main/contracts/JudgeContract.linked.md) _to fulfil my role as a Judge in the Supreme Court of Nation3, should I be elected by community vote_”.
 * Legal qualifications.
 * Relevant legal experience (e.g. contract law, corporate & employment law, business disputes, as well as any type of dispute resolution).
 * Relevant Web3 experience or research.
