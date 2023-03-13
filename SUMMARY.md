@@ -30,6 +30,7 @@
 * [🚩 Disputing an agreement](agreements/disputing-an-agreement.md)
 * [📧 Submitting evidence](agreements/submitting-evidence.md)
 * [✅ Finalizing an agreement](agreements/finalizing-an-agreement.md)
+* [📃 Linked Markdown](agreements/linked-markdown.md)
 
 ## Guilds
 
@@ -43,4 +44,3 @@
 * [🌐 Website](https://nation3.org)
 * [📲 Citizen app](https://app.nation3.org)
 * [🔗 Official resources](official-resources.md)
-* [📃 Linked Markdown](linked-markdown.md)
