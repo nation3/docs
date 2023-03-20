@@ -60,10 +60,9 @@ On-chain enactment: 3, after 2, 2d
 2. [Open a pull request](https://github.com/nation3/gov-proposals/pull/new) in the `gov-proposals` repo adding the proposal as `N3GOV-X.json`. Link the pull request at the end of your forum post.
 3. Modify the proposal based on feedback, both in the forum and in the pull request.
 4. Once the feedback period ends, you can tag it as `frozen` on GitHub.
-5. A bot will automatically merge and assing it an ID after checking:
+5. A bot will automatically allow you to merge it after checking:
    * All data types match the spec.
-   * The forum post is at least 48h old and contains the encoded proposal.
-   * In case of bot malfunctioning, or the bot not being implemented, at least 2 reviews by [guardian-guild.md](../guilds/guardian-guild.md "mention") members are needed for a proposal to be merged.
+   * The pull request is at least 48h old.
 6. The [guardian-guild.md](../guilds/guardian-guild.md "mention") multisig creates the vote on Snapshot. The vote must start with `N3GOV-ID:` (where ID is the proposal's ID) followed by the title of the proposal's discussion.
 7. If the Snapshot vote passed, the [guardian-guild.md](../guilds/guardian-guild.md "mention") multisig creates the vote on Aragon.
 
