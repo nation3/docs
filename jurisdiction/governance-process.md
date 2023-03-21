@@ -54,7 +54,7 @@ On-chain enactment: 3, after 2, 2d
 4. Once the feedback period ends, you can tag it as `frozen` on GitHub.
 5. A bot will automatically allow you to merge it after checking:
    * All data types match the spec.
-   * The pull request is at least 48h old.
+   * No changes have been done to the pull request content in the last 48h.
 6. The [guardian-guild.md](../guilds/guardian-guild.md "mention") multisig creates the vote on Snapshot. The vote must start with `N3GOV-ID:` (where ID is the proposal's ID) followed by the title of the proposal's discussion.
 7. If the Snapshot vote passed, the [guardian-guild.md](../guilds/guardian-guild.md "mention") multisig creates the vote on Aragon.
 
