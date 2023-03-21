@@ -51,12 +51,14 @@ On-chain enactment: 3, after 2, 2d
 1. Once you are ready to submit a formal proposal, go to the [Proposal Generator](https://gov.nation3.org/proposals/create) to generate an encoded version. Proposals need to adhere to the [governance spec](https://github.com/nation3/gov/blob/main/specs/N3GOV-v2.d.ts).
 2. [Open a pull request](https://github.com/nation3/gov-proposals/pull/new) in the `gov-proposals` repo adding the proposal as `N3GOV-ID.json` (where ID is the suggested proposal's ID). Link the pull request at the end of your forum post.
 3. Modify the proposal based on feedback, both in the forum and in the pull request.
-4. Once the feedback period ends, you can tag it as `frozen` on GitHub.
-5. A bot will automatically allow you to merge it after checking:
-   * All data types match the spec.
-   * No changes have been done to the pull request content in the last 48h.
-6. The [guardian-guild.md](../guilds/guardian-guild.md "mention") multisig creates the vote on Snapshot. The vote must start with `N3GOV-ID:` (where ID is the proposal's ID) followed by the title of the proposal's discussion.
-7. If the Snapshot vote passed, the [guardian-guild.md](../guilds/guardian-guild.md "mention") multisig creates the vote on Aragon.
+4.  A bot will automatically allow you to merge it after checking:
+
+    * All data types match the spec.
+    * No changes have been done to the pull request content in the last 48h.
+
+    You can trigger the bot to run these checks by changing the state of the pull request back to a draft, and then to ready-to-review again.
+5. The [guardian-guild.md](../guilds/guardian-guild.md "mention") multisig creates the vote on Snapshot. The vote must start with `N3GOV-ID:` (where ID is the proposal's ID) followed by the title of the proposal's discussion.
+6. If the Snapshot vote passed, the [guardian-guild.md](../guilds/guardian-guild.md "mention") multisig creates the vote on Aragon.
 
 ### Proposals with critical impact
 
