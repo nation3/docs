@@ -13,7 +13,7 @@ To submit evidence about a case you are a part of, follow these steps:
    ![](<../.gitbook/assets/Screenshot 2023-01-10 at 4.48.04 PM.png>)
 6. Now you can choose your new Ethereum account in the _From_ field while drafting new emails. You should always use this new email account when communicating with judges.\
    ![](<../.gitbook/assets/Screenshot 2023-01-10 at 4.51.46 PM.png>)
-7. You should email evidence to judges by sending them an email to their Ethereum address followed by `@ethereum.email`. You can check out the current judges at [supreme-court.md](../jurisdiction/supreme-court.md "mention"). Their Ethereum addresses are in this [Safe](https://app.safe.global/settings/setup?safe=eth:0xee8F0B89983aF83598E6Fb503B9f6e5eaf23b243) (`judges.nation3.eth`).
+7. You should email evidence to judges by sending them an email to their Ethereum address followed by `@ethereum.email`. You can check out the current judges at [supreme-court.md](../legal-system/supreme-court.md "mention"). Their Ethereum addresses are in this [Safe](https://app.safe.global/settings/setup?safe=eth:0xee8F0B89983aF83598E6Fb503B9f6e5eaf23b243) (`judges.nation3.eth`).
 8. You can submit any files, in any reasonable file format, attached to the email. For files larger than 25MB, please use [Tresorit Send](https://send.tresorit.com).
 
 {% hint style="info" %}

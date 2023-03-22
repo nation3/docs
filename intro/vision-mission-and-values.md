@@ -2,19 +2,11 @@
 
 ## Vision
 
-To create an online-first nation state flourishing human creativity and morality.
+A nation state on the internet making human potential flourish.
 
 ## Mission
 
-We are building an online-first nation state with its own jurisdiction, court and system of law.
-
-We issue our own cryptocurrency to incentivize economic development within the jurisdiction.
-
-We issue our own passports to create an aligned community of critical-thinking citizens.
-
-We aim to create the most reliable and efficient business environment to transact on the Internet.
-
-We aim to eventually acquire land to create an archipelago of prosperous city states.&#x20;
+Become the internet’s legal system.
 
 ## Values
 

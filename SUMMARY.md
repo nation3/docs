@@ -6,13 +6,13 @@
 * [💚 Vision, mission and values](intro/vision-mission-and-values.md)
 * [⭐ Manifesto](https://nation3.org/manifesto)
 
-## Jurisdiction
+## Legal system
 
-* [🌐 Overview](jurisdiction/overview.md)
-* [⛓ DAO](jurisdiction/dao.md)
-* [📜 Constitution](jurisdiction/constitution.md)
-* [⚖ Supreme Court](jurisdiction/supreme-court.md)
-* [🗳 Governance process](jurisdiction/governance-process.md)
+* [🌐 Overview](legal-system/overview.md)
+* [⛓ DAO](legal-system/dao.md)
+* [📜 Constitution](legal-system/constitution.md)
+* [⚖ Supreme Court](legal-system/supreme-court.md)
+* [🗳 Governance process](legal-system/governance-process.md)
 
 ## Citizenship
 

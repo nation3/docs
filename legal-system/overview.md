@@ -1,10 +1,10 @@
 # 🌐 Overview
 
-Nation3 is its own jurisdiction because it has the **power to create and enforce law**.
+Nation3 is its own legal system because it has the **power to create and enforce law**.
 
-Traditionally, nation states enforce law within their physical borders (their land). But Nation3 enforces law within its virtual borders, making it the **first Internet jurisdiction**.&#x20;
+Traditionally, nation states enforce law within their physical borders (their land). But Nation3 enforces law within its virtual borders, making it the **internet's legal system**.&#x20;
 
-The idea is simple: people can enter legal agreements over the Internet, secured by the Nation3 system of law. In case one of the parties breaches the agreement, they can **open a dispute** and take them to court in Nation3.
+The idea is simple: people can enter legal agreements over the internet, secured by Nation3's legal system. In case one of the parties breaches the agreement, they can **open a dispute** and take them to court in Nation3.
 
 ## Features
 
@@ -37,7 +37,7 @@ And the following stakeholders:
 
 ```mermaid
 graph TD
-  subgraph Jurisdiction[Nation3 Jurisdiction - all agreements bound by Constitution and law in effect]
+  subgraph N3[Nation3 - all agreements bound by Constitution and law in effect]
     Citizens -->|Govern| DAO
     DAO -->|Enacts| Constitution
     DAO -->|Makes and changes| Law
