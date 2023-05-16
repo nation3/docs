@@ -1,10 +1,20 @@
 # ✍ Creating an agreement
 
-To create a Nation3 agreement, you will need the following:
+Creating a Nation3 Agreement is a straightforward process. Here's what you need:
 
-* The terms that the parties of the agreement will need to abide by. If you are familiar with Markdown, you will be delighted to know that legal agreements within the Nation3 jurisdiction are written with a very easy superset of Markdown: [linked-markdown.md](linked-markdown.md "mention").
-* The collateral (amount of tokens) that each party will need to enter the agreement. This is also the maximum amount of tokens that each party can lose in case of breaching the contract.
+* **Terms of the Agreement:** These are the conditions that all parties involved will need to follow. If you're familiar with Markdown, you'll be pleased to know that we use [linked-markdown.md](linked-markdown.md "mention"), an easy to use superset of Markdown, for all our legal documents.
+* **Parties stakes**: Each party must deposit a certain amount of tokens as collateral upon entering the agreement. This deposit defines the maximum amount of tokens a party can lose if they breach the terms.
 
-Once you have defined those, you can check how to create a Nation3 agreement in less than 30 seconds here:
+### **Tips for Great Agreements**
 
-{% embed url="https://www.loom.com/share/fb0af098fb0a4e8097f597ac029586b2" %}
+* **Clarity is Key:** Be as specific as possible when defining the terms of your agreement, especially when outlining breach conditions and severity, along with desired settlements. The clearer your terms, the smoother the dispute resolution process will be.
+* **Notice Provision:** Include a notice provision in your terms, specifying the communication channel that will be used in case of a dispute. If not specified, the default channel (your-address@skiff.com) will be used.
+* **Adjust you timeframes:** In your terms you can define custom timeframes for the resolution process, provided they fall within the valid range. If not specified, default timeframes will be applied.
+
+Learn more about the Dispute Resolution Process and their defaults [here](https://linked.md/v?u=ipfs://bafybeifiehkdnx5yhyrengoim5dhjclhxba6yhske6rwbm7dcv527gk524/DisputeResolutionProcess.linked.md).
+
+Remember, a well-crafted agreement not only helps avoid disputes but also makes the resolution process more efficient if disputes do arise. So, take your time to create a comprehensive, clear, and effective agreement.
+
+{% hint style="info" %}
+Coming soon: Agreement Templates! This feature will allow you to jumpstart your agreements using pre-reviewed terms, saving you time and effort. Stay tuned!
+{% endhint %}

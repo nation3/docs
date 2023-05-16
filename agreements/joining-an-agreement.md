@@ -1,17 +1,12 @@
 # ➡ Joining an agreement
 
-To join an agreement:
+To join an agreement, you'll first need to navigate to the specific agreement's page. This link should be shared by the agreement's creator or other parties.
 
-1. Go to the agreement's page, which the creator of the agreement should have shared with you.
-2. Click _Join._
-3. Follow the steps.
-4. Click _Join_. A modal will appear, and you can follow the steps. The tokens required to join the agreement will be deposited in the agreement, and you will join the agreement. You will be bound by its terms.&#x20;
+Once you've reached the Agreement page, ensure you're connected with an eligible account to join. If you are, click on "Join the Agreement" and follow the instructions provided.
 
-Check a video of how to join an agreement in 30 seconds:
-
-{% embed url="https://www.loom.com/share/3ab43e3138ee49cdbf16dd22cd95a1e7" %}
+Remember, joining an agreement involves depositing the specified **collateral tokens**. Additionally, a **dispute deposit** in $NATION tokens will also be held in escrow. This deposit is only deducted if you end up initiating a dispute.
 
 {% hint style="info" %}
-Before joining, you should verify that you have read the agreement's terms and you agree with them.
+Once you join an Agreement, you are bound by its terms. Be sure to verify & review all terms thoroughly before joining
 {% endhint %}
 

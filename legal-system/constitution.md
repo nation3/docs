@@ -24,14 +24,3 @@ In terms of separation of powers, it can be framed as follows:
 * The DAO can be trusted to elect Judges once a year, and to dismiss Judges in breach from time to time.
 * If a Judge is in breach of their duties, the rest of the Judges can be trusted to rule against that Judge in breach. If they collude, they know they will be all replaced by the DAO, so it's in their incentive not to collude.
 * The Court and the Guardian Guild are completely separate entities, and thus providers can rely on the Court in case that the Guardian Guild is providing a wrong judgement on a provider's deliverables.
-
-### Links to documents
-
-* [Constitution](https://linked.md/v?u=https://linked.md/api/github/nation3/law/main/Constitution.linked.md): Highest standing agreement among Citizens, Judges and Guardians.
-* [Judge Contract](https://linked.md/v?u=https://linked.md/api/github/nation3/law/main/contracts/JudgeContract.linked.md): Agreement between Supreme Court Judges and Nation3 DAO.
-* [Guardian Contract](https://linked.md/v?u=https://linked.md/api/github/nation3/law/main/contracts/GuardianContract.linked.md): Agreement between Guardian Guild members and Nation3 DAO.
-* [Dispute Resolution Process](https://linked.md/v?u=https://linked.md/api/github/nation3/law/main/contracts/DisputeResolutionProcess.linked.md): Process that Judges and Nation3 DAO follow for disputes within the Nation3 Jurisdiction, including evidence submission.
-
-{% hint style="info" %}
-All documents are written in [Linked Markdown](https://linked.md), a superset of Markdown focused on legal contracts and developed by Nation3.
-{% endhint %}

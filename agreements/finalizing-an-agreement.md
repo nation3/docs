@@ -1,15 +1,10 @@
 # ✅ Finalizing an agreement
 
-If the parties are happy with each other's adherance to the terms of the agreement, they can choose to amicably finalize an agreement.
+If all parties have fulfilled their obligations as per the terms of the agreement, they can mutually decide to conclude the agreement.
 
-To do so:
+To finalize an agreement:
 
-1. Go to the agreement's page.
-2. Click _Finalize_.
-3. When all parties have signed their finalization, all the parties will be able to withdraw their collateral locked within the agreement. To do that, click _Withdraw_.
+1. Go to the Agreement page.
+2. Click on "Signal Agreement's end" to start the process.
 
-Watch how to finalize an agreement in 15 seconds:
-
-{% embed url="https://www.loom.com/share/72676e4e0e694e4c9e6960b095d86fdf" %}
-In this case, one of the parties didn't join the agreement, which allows the other party to withdraw.
-{% endembed %}
+Once all parties have signed off on the finalization, they will be able to withdraw their collateral deposited at the start of the agreement. To do this, simply click "Withdraw from Agreement" when it's available.

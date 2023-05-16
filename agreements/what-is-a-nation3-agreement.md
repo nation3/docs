@@ -1,15 +1,15 @@
-# 💎 What is a Nation3 agreement
+# 💎 What is a Nation3 Agreement
 
 {% hint style="info" %}
-Nation3 agreements aren't live yet. If you wanna be the first one to know, make sure to [sign up to the waitlist](https://forms.gle/FJX5CGqiCnfny8196).
+Nation3 Agreements is currently in **beta**. Eager to be among the first users? Dive into our [beta user guide](agreements-beta.md) and embark on your internet-native contracts journey today.
 {% endhint %}
 
-A Nation3 agreement is a contract between two or more parties that is regulated by the laws of  Nation3's legal system. It's akin to a legal contract in a traditional jurisdiction.
+A Nation3 Agreement is a contract between two or more parties, secured by the Nation3 Legal System. Think of it as an internet-native handshake, defined by mutually agreed terms and backed by crypto assets.
 
-The parties that enter the agreement are legally bound by it, and can be taken to court (ultimately, the [supreme-court.md](../legal-system/supreme-court.md "mention")) in case they breach the agreement's terms.
+Each party puts a specific amount of assets as collateral when entering the agreement. These assets can only be claimed in case of a breach, to compensate any affected parties.
 
-The agreement's terms are a document in the English language and formatted using [Linked Markdown](https://linked.md). The terms can contain any arbitrary legal clauses, but must adhere to the Nation3 [constitution.md](../legal-system/constitution.md "mention") and law in effect.
+All parties in an Agreement are bound by its terms. If they breach those terms, they can be taken to a Nation3 Court (ultimately, the [supreme-court.md](../legal-system/supreme-court.md "mention")) for dispute resolution.
 
-In Nation3 agreements, each party enters the agreement with an amount of tokens (the collateral), which can be taken from them in case of breach to compensate the other parties in the agreement.
+The terms of the agreement terms are set out in English, typically using  [Linked Markdown](https://linked.md) for clear formatting. The terms can include any clause agreed upon the parties, but must adhere to Nation3 [law.md](../legal-system/law.md "mention") and any other applicable laws.
 
-In case of misbehavior, any of the parties can open a dispute and the Nation3 courts will resolve the dispute and rule a fair outcome.\
+Nation3 Agreements can cover all types of contracts, clearly defining each party's liability and offering a built-in, efficient way to resolve disputes in the internet age.\

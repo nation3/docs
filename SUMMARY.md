@@ -11,6 +11,7 @@
 * [🌐 Overview](legal-system/overview.md)
 * [⛓ DAO](legal-system/dao.md)
 * [📜 Constitution](legal-system/constitution.md)
+* [📚 Law](legal-system/law.md)
 * [⚖ Supreme Court](legal-system/supreme-court.md)
 * [🗳 Governance process](legal-system/governance-process.md)
 
@@ -24,13 +25,14 @@
 
 ## Agreements
 
-* [💎 What is a Nation3 agreement](agreements/what-is-a-nation3-agreement.md)
+* [💎 What is a Nation3 Agreement](agreements/what-is-a-nation3-agreement.md)
 * [✍ Creating an agreement](agreements/creating-an-agreement.md)
 * [➡ Joining an agreement](agreements/joining-an-agreement.md)
 * [🚩 Disputing an agreement](agreements/disputing-an-agreement.md)
 * [📧 Submitting evidence](agreements/submitting-evidence.md)
 * [✅ Finalizing an agreement](agreements/finalizing-an-agreement.md)
 * [📃 Linked Markdown](agreements/linked-markdown.md)
+* [🚧 Agreements Beta](agreements/agreements-beta.md)
 
 ## Guilds
 
