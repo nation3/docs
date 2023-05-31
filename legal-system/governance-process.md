@@ -16,7 +16,7 @@ flowchart LR
 ```
 
 1. **Community review**: The community provides feedback on a published proposal for the proposer to consider. The proposer must explain how the proposal helps Nation3 advance its North Star metrics. After the minimum duration required for this stage, the proposer can freeze their proposal, advancing it to the next stage. After freeze, any further modifications to the proposal require restarting the process.
-   * **Duration**: >48h.
+   * **Duration**: >24h.
    * **Platform**: [Forum](https://forum.nation3.org).
 2. **Off-chain vote**: Citizens can vote. The [guardian-guild.md](../guilds/guardian-guild.md "mention") is responsible for creating the proposal on Snapshot.
    * **Duration**: 48h.
@@ -41,7 +41,7 @@ dateFormat YYYY-MM-DD
 axisFormat %d
 title Lifecycle of a proposal
 
-Community review: 1, 0000-01-01, 2d
+Community review: 1, 0000-01-01, 1d
 Off-chain vote: 2, after 1, 2d
 On-chain enactment: 3, after 2, 2d
 ```

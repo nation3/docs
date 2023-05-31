@@ -1,6 +1,6 @@
 # 📜 Constitution
 
-The Nation3 Constitution is the world's first enforceable constitution from a cloud nation.&#x20;
+The [Nation3 Constitution](https://linked.md/v?u=ipfs://bafybeidfupkrpzch3gwryqnaevratjc2nabhfoibygn5mmdpaylzbmajqu/Constitution.linked.md) is the world's first enforceable constitution from a cloud nation.&#x20;
 
 ### Key points
 
