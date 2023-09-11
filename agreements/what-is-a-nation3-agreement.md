@@ -10,6 +10,6 @@ Each party puts a specific amount of assets as collateral when entering the agre
 
 All parties in an Agreement are bound by its terms. If they breach those terms, they can be taken to a Nation3 Court (ultimately, the [supreme-court.md](../legal-system/supreme-court.md "mention")) for dispute resolution.
 
-The terms of the agreement terms are set out in English, typically using  [Linked Markdown](https://linked.md) for clear formatting. The terms can include any clause agreed upon the parties, but must adhere to Nation3 [law.md](../legal-system/law.md "mention") and any other applicable laws.
+The terms of the agreement terms are set out in English, typically using  [Linked Markdown](https://github.com/linkedmd) for clear formatting. The terms can include any clause agreed upon the parties, but must adhere to Nation3 [law.md](../legal-system/law.md "mention") and any other applicable laws.
 
 Nation3 Agreements can cover all types of contracts, clearly defining each party's liability and offering a built-in, efficient way to resolve disputes in the internet age.\
