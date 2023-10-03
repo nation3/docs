@@ -6,7 +6,7 @@
 * **Twitter:** [https://twitter.com/Nation3DAO](https://twitter.com/Nation3DAO)
 * **Blog:** [https://mirror.xyz/3.nation3.eth](https://mirror.xyz/3.nation3.eth)
 * **Forum:** [https://forum.nation3.org](https://forum.nation3.org/)
-* **Discord:** [https://n3.gg/discord](https://n3.gg/discord)
+* **Discord:** [https://discord.gg/nation3-690584551239581708](https://discord.gg/nation3-690584551239581708)
 
 ## Governance
 
